@@ -1,0 +1,12 @@
+requests
+flask
+langgraph
+langchain
+openai
+textblob
+gtts
+python-dotenv
+fpdf
+streamlit
+python-docx
+pydub
